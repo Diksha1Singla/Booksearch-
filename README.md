@@ -1,9 +1,9 @@
 ﻿# booksearch
 
 For FrontEnd
-cd booksearch
-npm run start
+1.cd booksearch
+2.npm run start
 
 For BackEnd
-cd server
-npm nodemon server.js
+1.cd server
+2.npm nodemon server.js
